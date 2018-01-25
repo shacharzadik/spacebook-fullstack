@@ -37,7 +37,7 @@ var SpacebookApp = function () {
     }
   }
 
-  // function addPost(newPost) {
+  // function addPost(newPost) {git stat
   //   posts.push({ text: newPost, comments: [] });
   //   _renderPosts();
   // }
